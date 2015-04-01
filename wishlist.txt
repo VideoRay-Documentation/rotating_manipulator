@@ -1,0 +1,14 @@
+Add pictures on various pages 
+
+Qs_dive manual after hand controller 
+qs_post dive add sentence about removal of rotating manip (for best results)
+remove manual for for jaws.htm
+mounting.htm change to additional information *about* include in the documentation guide 
+remove add pictures from changingjaws.htm
+Jaws.htm danger/caution after first paragraph
+Qs_pre dive, Cut off after information, check links
+operations.htm both manuals in second sentence, after equipment and software
+operations.htm refer to as pro 4 hand controller 
+maintenance.htm need specification of light oil
+
+

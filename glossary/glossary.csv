@@ -1,0 +1,7 @@
+case_control|word|description|
+|Actuator|The part of the Articulating Manipulator that causes the jaws or cutter to open and close.|
+|Articulating|The ability of a joint to move.  In this case, the Articulating Manipulator is able to rotate the actuator.|
+|Center Float|A float designed specifically for the Articulating Manipulator to provide addition buoyancy to counter the weight of the manipulator.|
+|Counterbalance Weight|A weight designed to help maintain an even pitch of the ROV when the Articulating Manipulator is installed on the ROV.|
+|Effector|Another name for the jaws or cutter.|
+|Rotating Frame|The part of the Articulating Manipulator that causes the jaws or cutter to rotate.|

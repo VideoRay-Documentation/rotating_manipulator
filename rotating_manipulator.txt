@@ -1,0 +1,30 @@
+#Document Commands
+!PRODUCT,Rotating Manipulator
+!VERSION,1.00.00
+!DOC_TYPE,<br>Operator's Manual
+!OUT_DIR,rotating_manipulator/
+!VALID_PAGES,
+!VALID_TEXT,
+!TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
+
+#Documentation Generation
+!INCLUDE,required/intro_qs_.txt,1
+!INCLUDE,required/overview_qs_.txt,1
+
+*,Equipment Guide,,equipment_.htm,,,
+**,Interchangeable Jaws,,jaws.htm,,,
+**,Installation and Removal,,installation_removal.htm,,,
+***,Changing Jaws,,changing_jaws.htm,,,
+***,Mounting on the ROV,,mounting.htm,,,
+
+*,Software Guide,,software_.htm,,,
+**,Software Management,,software_management.htm,,,
+***,Software Installation,,software_installation.htm,,,
+***,Software Updates,,software_updates.htm,,,
+
+*,Operations Guide,,operations_.htm,,,
+
+*,Maintenance Guide,,maintenance_.htm,,,
+#**,Diagnostics Manual,NUL,../../rotating_manipulator_vital/html/_2.htm,,,
+
+*,Compatibility Guide,,compatibility_.htm,,compatibility_sb.htm,
