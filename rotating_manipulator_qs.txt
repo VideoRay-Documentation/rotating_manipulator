@@ -1,0 +1,15 @@
+#Document Commands
+!PRODUCT,Rotating Manipulator
+!VERSION,1.00.00
+!HEADER_BREAK,<br />
+!DOC_TYPE,Quick Start Guide
+!OUT_DIR,rotating_manipulator/
+!HTML_VERSION,qs
+!INCLUDED_PAGES,
+!VALID_TEXT,
+!TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
+
+#Documentation Generation
+!INCLUDE,required/intro_qs_.txt,1
+!INCLUDE,required/overview_qs_.txt,1
+*,Rotating Manipulator Manual,NUL,../../rotating_manipulator/html/index.htm,,,

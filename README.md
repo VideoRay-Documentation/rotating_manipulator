@@ -1,2 +1,2 @@
-# articulating_manipulator
+# rotating_manipulator
 Operating Manual
